@@ -1,6 +1,9 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+GTV BANGLA | ▶️ Live YouTube | |
+https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
+
 ABC News | ▶️ Live YouTube | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
